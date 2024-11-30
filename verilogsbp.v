@@ -10,7 +10,7 @@ module and_gate (in_A, in_B, out);
     output out;
 
     and(out, in_A, in_B);
-endmodule
+endmodule   
 
 // NOT gate for Darkness inversion
 module not_gate (in, out);

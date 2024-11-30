@@ -1,0 +1,37 @@
+LOCUS     BBa_K2685021_BBa_B0034_BBa_J428018_BBa_B0015 762 bp ds-DNA     linear
+DEFINITION
+FEATURES                 Location/Qualifiers
+    regulatory           1..54
+                         /label=BBa_K2685021
+                         /ApEinfo_revcolor=#FFD700
+                         /ApEinfo_fwdcolor=#FFD700
+
+    misc_feature         55..66
+                         /label=BBa_B0034
+                         /ApEinfo_revcolor=#55E35E
+                         /ApEinfo_fwdcolor=#55E35E
+
+    CDS                  67..633
+                         /label=BBa_J428018
+                         /ApEinfo_revcolor=#04080B
+                         /ApEinfo_fwdcolor=#04080B
+
+    terminator           634..762
+                         /label=BBa_B0015
+                         /ApEinfo_revcolor=#77003C
+                         /ApEinfo_fwdcolor=#77003C
+
+ORIGIN
+1      tccctatcag tgatagagat tgacatccct atcagtgata gagatactga gcacaaagag
+61     gagaaaatga acctgaaaga taaaattctg ggcgttgcca aagaactgtt tatcaaaaat
+121    ggctataacg caaccaccac cggtgaaatt gttaaactga gcgaaagcag caaaggcaat
+181    ctgtattatc actttaaaac caaagagaac ctgtttctgg aaatcctgaa catcgaagaa
+241    agcaaatggc aagagcagtg gaaaaaagaa caaatcaaat gcaaaaccaa ccgcgagaaa
+301    ttctatctgt ataatgaact gagcctgacc accgaatatt actatccgct gcagaatgcc
+361    atcatcgagt tttataccga gtactataaa accaacagca tcaacgagaa aatgaacaaa
+421    ctggaaaaca aatacatcga tgcctaccac gtgatcttta aagaaggtaa tctgaacggc
+481    gaatggtgca ttaatgatgt taatgccgtg agcaaaattg cagcaaatgc cgttaatggc
+541    attgttacct ttacccatga gcagaatatc aacgaacgca ttaaactgat gaacaaattc
+601    agccagatct ttctgaatgg cctgagcaaa taaccaggca tcaaataaaa cgaaaggctc
+661    agtcgaaaga ctgggccttt cgttttatct gttgtttgtc ggtgaacgct ctctactaga
+721    gtcacactgg ctcaccttcg ggtgggcctt tctgcgttta ta

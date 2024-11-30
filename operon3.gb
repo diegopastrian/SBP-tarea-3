@@ -1,0 +1,40 @@
+LOCUS     BBa_K2525016_BBa_B0034_BBa_K1491004 - Yellow fluorescent protein (YFP)_BBa_B0015 930 bp ds-DNA     linear
+DEFINITION
+FEATURES                 Location/Qualifiers
+    regulatory           1..48
+                         /label=BBa_K2525016
+                         /ApEinfo_revcolor=#FFD700
+                         /ApEinfo_fwdcolor=#FFD700
+
+    misc_feature         49..60
+                         /label=BBa_B0034
+                         /ApEinfo_revcolor=#55E35E
+                         /ApEinfo_fwdcolor=#55E35E
+
+    CDS                  61..801
+                         /label=BBa_K1491004 - Yellow fluorescent protein (YFP)
+                         /ApEinfo_revcolor=#04080B
+                         /ApEinfo_fwdcolor=#04080B
+
+    terminator           802..930
+                         /label=BBa_B0015
+                         /ApEinfo_revcolor=#77003C
+                         /ApEinfo_fwdcolor=#77003C
+
+ORIGIN
+1      gattcgttac caattgacat gatacgaaac gtaccgtatc gttaaggtaa agaggagaaa
+61     ATGGTTAGCA AGGGCGAAGA ACTTTTTACA GGCGTAGTAC CGATCTTAGT TGAATTAGAC
+121    GGCGACGTTA ACGGTCATAA GTTTAGCGTG AGCGGTGAGG GTGAAGGTGA CGCAACTTAC
+181    GGCAAGCTGA CCCTGAAGCT GATTTGCACG ACGGGTAAGC TGCCGGTCCC GTGGCCTACC
+241    CTGGTCACGA CCTTGGGTTA TGGCGTTCAG TGTTTCGCGC GTTATCCGGA CCACATGAAA
+301    CAACACGATT TCTTTAAGAG CGCGATGCCA GAAGGCTATG TGCAGGAGCG TACGATCTTT
+361    TTCAAAGACG ACGGTAACTA CAAGACGCGT GCCGAAGTCA AATTCGAAGG CGACACCCTG
+421    GTGAATCGCA TTGAGCTGAA GGGTATTGAT TTCAAAGAGG ATGGCAATAT CCTGGGTCAC
+481    AAGCTGGAGT ACAATTACAA TTCCCACAAC GTTTACATCA CCGCAGATAA ACAGAAAAAT
+541    GGCATCAAAG CGAATTTCAA AATCCGTCAC AACATTGAGG ACGGTGGTGT TCAACTGGCG
+601    GATCATTACC AGCAAAACAC CCCGATTGGT GACGGTCCGG TCCTGTTGCC GGATAACCAT
+661    TATCTGTCTT ACCAAAGCAA ACTGAGCAAA GATCCGAACG AGAAGCGCGA CCACATGGTG
+721    CTGCTGGAGT TTGTGACCGC TGCCGGTATT ACCCTGGGTA TGGATGAGCT GTATAAACAT
+781    CATCACCACC ATCACTAATA Accaggcatc aaataaaacg aaaggctcag tcgaaagact
+841    gggcctttcg ttttatctgt tgtttgtcgg tgaacgctct ctactagagt cacactggct
+901    caccttcggg tgggcctttc tgcgtttata
